@@ -1,7 +1,7 @@
 package com.bank.app;
-//Exercise1
+//Exercise 1
 public class Greeting {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         System.out.println("Hello, Swedbank!");
         System.out.print("Arminas");
         System.out.println("Snarskis");

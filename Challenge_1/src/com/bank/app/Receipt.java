@@ -1,7 +1,7 @@
 package com.bank.app;
-//Exercise2
+//Exercise 2
 public class Receipt {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         String item1 = "Coffee";   double price1 = 2.50;
         String item2 = "Sandwich"; double price2 = 5.90;
         String item3 = "Water";    double price3 = 1.20;
