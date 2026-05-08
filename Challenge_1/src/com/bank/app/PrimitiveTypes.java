@@ -38,7 +38,6 @@ public class PrimitiveTypes {
         System.out.println("underscored million: " + million);
         System.out.println("underscored txLimit: " + txLimit);
 
-
         char c = 'A';
         int code = c;
         char next = (char)(c + 1);
