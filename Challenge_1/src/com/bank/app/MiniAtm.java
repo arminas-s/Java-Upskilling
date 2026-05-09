@@ -1,5 +1,5 @@
 package com.bank.app;
-
+//Exercise 6
 public class MiniAtm {
     static void main() {
         String ownerName = "Liis Tamm";
@@ -28,6 +28,5 @@ public class MiniAtm {
                              Balance   : %16.2f EUR
                              ================================
                           """, accountId, ownerName, withdrawal, taxAmount, netReceived, newBalance);
-
             }
         }
