@@ -29,6 +29,7 @@ public class TypeDeclarations {
         var vBalance = 15_000.00;
         var vIsActive = true;
         var vGrade = 'A';
+
         System.out.println();
         System.out.println("var vFlags = " + vFlags);
         System.out.println("var vYear = " + vYear);
