@@ -22,7 +22,6 @@ public class DefaultValues {
             System.out.println("char    c   = \\u" + String.format("%04x", (int)c));
             System.out.println("String  str = " + str);
         }
-
         public static void main(String[] args) {
             new DefaultValues().printDefaults();
         }
