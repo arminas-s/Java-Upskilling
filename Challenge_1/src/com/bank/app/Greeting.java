@@ -2,6 +2,7 @@ package com.bank.app;
 //Exercise 1
 public class Greeting {
     static void main() {
+        System.out.println();
         System.out.println("Hello, Swedbank!");
         System.out.print("Arminas");
         System.out.println("Snarskis");
