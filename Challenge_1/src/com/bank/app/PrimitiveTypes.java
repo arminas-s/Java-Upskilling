@@ -44,6 +44,5 @@ public class PrimitiveTypes {
         System.out.println("c = " + c);
         System.out.println("code = " + code);
         System.out.println("next = " + next);
-
     }
 }
