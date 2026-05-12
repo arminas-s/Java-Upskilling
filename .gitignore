@@ -1,0 +1,12 @@
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+**/out
+**/*.class
+**/.idea/
+ 
+ 
+# OS clutter
+Thumbs.db
