@@ -12,7 +12,7 @@ public class Exercise5 {
         System.out.println("Balance: " + (100 + 50));
 
         String a = "EUR";
-        String b = "EUR";;
+        String b = "EUR";
         System.out.println("a == b: " + (a == b));
 
         String c = new String("EUR");
