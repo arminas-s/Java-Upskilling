@@ -25,5 +25,4 @@ public class Exercise2 {
     public static void describe(boolean b) {
         System.out.printf("Boolean: %b (inverted: %b)%n", b, !b);
     }
-
 }
