@@ -15,7 +15,7 @@ public class Exercise2 {
         balance -= amount;
     }
 
-    public static void main(String[] args) {
+    static void main() {
         Locale.setDefault(Locale.ENGLISH);
         try (Formatter audit = new Formatter(System.out)) {
             audit.format("[audit open] %s%n", iban);
