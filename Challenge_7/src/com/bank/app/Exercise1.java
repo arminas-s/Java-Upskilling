@@ -2,7 +2,6 @@ package com.bank.app;
 import java.util.Locale;
 //Monthly balance ledger
 public class Exercise1 {
-
     public static void main(String[] args) {
         Locale.setDefault(Locale.ENGLISH);
 
