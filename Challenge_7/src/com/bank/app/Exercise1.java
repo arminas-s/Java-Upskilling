@@ -34,13 +34,10 @@ public class Exercise1 {
             }
         }
 
-        double netAfterFees = total - 6.00;
-
         System.out.printf("Total:   %.2f EUR%n", total);
         System.out.printf("Average: %.2f EUR%n", average);
         System.out.printf("Highest: %.2f EUR%n", highest);
         System.out.printf("Lowest:  %.2f EUR%n", lowest);
         System.out.printf("Credits: %d  Debits: %d%n", credits, debits);
-        System.out.printf("Net after fees: %.2f EUR%n", netAfterFees);
     }
 }
